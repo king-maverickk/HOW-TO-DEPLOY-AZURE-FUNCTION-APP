@@ -1,3 +1,7 @@
 1. Made a new empty folder.
 2. F1 +  Azure Functions: Create New Project...
 3. Files showed up, with Repo style folder.
+4. F1 + Azure Functions: Create Function App in Azure
+5. ...it worked! 
+
+The only there I didn't do was Create New Project from Command Palette.
